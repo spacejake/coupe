@@ -5,10 +5,10 @@ __Coupe__ is an open source computational photography and image processing softw
 ## Coupe Packages ##
 
   * Image Processing
-    * [BTF](bilateralTextureFiltering) decomposes textures from a given image
-    * [Outliers](deconvWithOutlier) is non-blind image deconvolution with outlier handling.
+    * [bilateralTextureFiltering](bilateralTextureFiltering) decomposes textures from a given image.
+    * [deconvWithOutlier](deconvWithOutlier) is non-blind image deconvolution with outlier handling.
 
 ## Useful Links ##
 
-  * [Coupe Library Webpage](http://cg.postech.ac.kr/coupe)
+  * [Coupe Library](http://cg.postech.ac.kr/coupe)
   * [POSTECH CG Lab.](http://cg.postech.ac.kr/)
